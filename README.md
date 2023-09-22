@@ -5,3 +5,4 @@
 <p>- HTML</p>
 <p>- CSS</p>
 <br>
+<img src="https://github.com/maarianenascimento/DevClub-WCL-CSS/blob/main/img/img-README.png?raw=true" alt=img-do-projeto"/>
